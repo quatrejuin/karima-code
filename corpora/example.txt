@@ -1,0 +1,4 @@
+la classe x possède association11 avec la classe y
+la classe x possède la clé primaire y
+la classe x possède attribut y
+la classe x et la classe y possèdent relationNM z

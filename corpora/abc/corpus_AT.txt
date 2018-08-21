@@ -1,0 +1,44 @@
+la classe
+the table
+une classe
+a table
+un attribut
+a column
+association1N
+foreign-key
+association11
+foreign-key1
+la classe x
+the table x
+la classe x possède 
+the table x has
+la classe x possède la clé 
+the table x has the key
+la clé primaire y
+the primary key y
+la
+the 
+le
+the
+la classe x possède la clé primaire y
+the table x has the primary key y
+la classe x possède attribut y
+the table x has column y
+avec
+that-is-defined-as-primary-key-in
+la classe x possède association1N avec la classe y
+the table x has foreign-key that-is-defined-as-primary-key-in the table y
+la classe x possède association11 avec la classe y
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+possèdent
+have
+et
+and
+la classe x et la classe y possèdent
+the table x and the table y have
+relationNM
+another-table 
+relationNM z
+another-table z
+la classe x et la classe y possèdent relationNM z
+the table x and the table y have another-table z

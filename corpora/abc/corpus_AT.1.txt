@@ -1,0 +1,20 @@
+la classe x possède la clé a
+the table x has the key a
+la classe y possède la clé b
+the table y has the key b
+la classe z possède la clé a
+the table z has the key a
+la classe x possède la clé primaire y
+the table x has the primary key y
+la classe z possède attribut c
+the table z has column c
+attribut c est dans la class z
+the table z has column c
+la classe z comprend attribut c
+the table z has column c
+la classe x possède association1N avec la classe y
+the table x has foreign-key that-is-defined-as-primary-key-in the table y
+la classe x possède association11 avec la classe y
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+la classe x et la classe y possèdent relationNM z
+the table x and the table y have another-table z

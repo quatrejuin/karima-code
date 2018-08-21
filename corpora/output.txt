@@ -1,0 +1,9 @@
+['the', 'table', 'x', 'has', 'foreign-key1', 'that-is-defined-as-primary-key-in', 'the', 'table', 'y']
+['the', 'table', 'x', 'has', 'the', 'key', 'primary', 'y']
+['the', 'table', 'x', 'has', 'column', 'y']
+['the', 'table', 'x', 'and', 'the', 'table', 'y', 'have', 'another-table', 'z']
+['another-table']
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the key primary y
+the table x has column y
+the table x and the table y have another-table z
