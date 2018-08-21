@@ -129,7 +129,7 @@ fd = {}
 # Test
 test_file = nltk.data.find('corpora/example.txt')
 result=""
-with open(test_file) as f:
+with open(test_file, encoding='utf-8') as f:
     lines = f.readlines()
     for line in lines:
         result += translate(line.lower())+"\n"
@@ -140,4 +140,5 @@ out_file = nltk.data.find('corpora/output.txt')
 with open(out_file, "a") as f:
     f.write(result)
 
+print(result)
     
