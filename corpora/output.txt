@@ -1,9 +1,455 @@
-['the', 'table', 'x', 'has', 'foreign-key1', 'that-is-defined-as-primary-key-in', 'the', 'table', 'y']
-['the', 'table', 'x', 'has', 'the', 'key', 'primary', 'y']
-['the', 'table', 'x', 'has', 'column', 'y']
-['the', 'table', 'x', 'and', 'the', 'table', 'y', 'have', 'another-table', 'z']
-['another-table']
+
 the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
-the table x has the key primary y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table y
+y table x has y primary key y
+y table x has column column
+z table x and z table y and and z
+the the x has foreign-key1 that-is-defined-as-primary-key-in the the y
+the the x has the primary key y
+the the x has column column
+the the x and the the y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y y
+the y x has the primary key y
+the y x has column y
+the z x and the z y and and z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y y
+the y x has the primary key y
+the y x has column y
+the z x and the z y and and z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y y
+the y x has the primary key y
+the y x has column y
+the z x and the z y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table that-is-defined-as-primary-key-in
+the table x has the primary key y
 the table x has column y
-the table x and the table y have another-table z
+the table x x the table y x x z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x x z table y x x z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y y
+the y x has the primary key y
+the y x has column y
+the z x and the z y and and z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y y
+the y x has the primary key y
+the y x has column y
+the z x and the z y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table that-is-defined-as-primary-key-in
+the table x has the primary key y
+the table x has column y
+the table x and the table y and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x and z table and and and z
+the y x has foreign-key1 that-is-defined-as-primary-key-in the y that-is-defined-as-primary-key-in
+the y x has the primary key y
+the y x has column y
+the z x and the z and and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x and z table and and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x and z table x and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x and z table x and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table that-is-defined-as-primary-key-in
+y table x has y primary key y
+y table x has column y
+z table x and z table x and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table y
+y table x has y primary key y
+y table x has column y
+z table x and z table and and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table y
+y table x has y primary key y
+y table x has column y
+z table x and z table y and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table y
+y table x has y primary key y
+y table x has column y
+z table x and z table y and and z
+y table x has foreign-key1 that-is-defined-as-primary-key-in y table y
+y table x has y primary key y
+y table x has column y
+z table x and z table and and and z
+the y the x has foreign-key1 the y the
+primary y the x primary key table primary
+column y the x has column
+and z the x and z x x x and
+ table x has foreign-key1 that-is-defined-as-primary-key-in  table y
+ table x has  primary key y
+ table x has column y
+ table x and  table and and and z
+[None] table x has foreign-key1 that-is-defined-as-primary-key-in [None] table y
+[None] table x has [None] primary key y
+[None] table x has column y
+[None] table x and [None] table and and and z
+the [None] x has foreign-key1 that-is-defined-as-primary-key-in the [None] y
+the [None] x has the primary key y
+the [None] x has column y
+the [None] x and the [None] y and and z
+table table x has foreign-key1 that-is-defined-as-primary-key-in table table y
+table table x has table primary key y
+table table x has column y
+table table x and table table y and and z
+table table x has foreign-key1 that-is-defined-as-primary-key-in table table y
+table table x has table primary key y
+table table x has column y
+table table x and table table y and and z
+table table x has foreign-key1 that-is-defined-as-primary-key-in table table y
+table table x has table primary key y
+table table x has column y
+table table x and table table y and and z
+table table x has foreign-key1 that-is-defined-as-primary-key-in table table y
+table table x has table primary key y
+table table x has column y
+table table x and table table y and and z
+table table x has foreign-key1 that-is-defined-as-primary-key-in table table y
+table table x has table primary key y
+table table x has column y
+table table x and table table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column column
+the table x and the table y and and z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column y
+the table x and the table y and another-table z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column y
+the table x and the table y and another-table z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column y
+the table x and the table y and another-table z
+the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
+the table x has the primary key y
+the table x has column y
+the table x and the table y and another-table z
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table column has s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table column has s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table column has s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table column has s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the table x has the primary key a
+the table x has column b
+the table y has the primary key c
+the table y has column e
+the table x and the table y and another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+the [None] x has the primary key a
+the [None] x has column b
+the [None] y has the primary key c
+the [None] y has column a
+the [None] x and the [None] y a another-table z
+another-table z has column s
+ the table x has the key primary a
+ the table x has column b
+ the table y has the key primary c
+ the table y has column a
+ the table x and the table y a another-table z
+ another-table z has column s
+
+the table x has column b
+
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s
+the table x has the key primary a
+the table x has column b
+the table y has the key primary c
+
+
+another-table z has column s

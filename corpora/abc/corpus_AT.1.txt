@@ -1,13 +1,25 @@
+la classe x et la classe y possèdent relationNM z
+the table x and the table y have another-table z
+un attribut est définit dans une classe
+a column is defined in a table
+il y a une classe
+there is a table
+il y a la classe x
+there is the table x
 la classe x possède la clé a
 the table x has the key a
-la classe y possède la clé b
-the table y has the key b
-la classe z possède la clé a
-the table z has the key a
+la classe f possède la clé w
+the table f has the key w
+la classe y possède la clé primaire b
+the table y has the primary key b
+la classe z possède la clé primaire d
+the table z has the primary key d
+la classe h possède la clé primaire e
+the table h has the primary key e
 la classe x possède la clé primaire y
 the table x has the primary key y
-la classe z possède attribut c
-the table z has column c
+la classe z possède attribut j
+the table z has column j
 attribut c est dans la class z
 the table z has column c
 la classe z comprend attribut c
@@ -16,5 +28,21 @@ la classe x possède association1N avec la classe y
 the table x has foreign-key that-is-defined-as-primary-key-in the table y
 la classe x possède association11 avec la classe y
 the table x has foreign-key1 that-is-defined-as-primary-key-in the table y
-la classe x et la classe y possèdent relationNM z
-the table x and the table y have another-table z
+la classe x possède la clé primaire a
+the table x has the key primary a
+la classe x possède attribut b
+the table x has column b
+la classe y possède la clé primaire c
+the table y has the key primary c
+la classe y possède attribut z
+the table y has column z
+la classe y possède association1N avec la classe x
+the table y has foreign-key that-is-defined-as-primary-key-in the table x
+x hérite y
+x contains-all-columns y
+x hérite de y
+x contains-all-columns of y
+la classe x hérite de la classe y
+the table x contains-all-columns of the table y
+relationNM z possède attribut s
+another-table z has column s

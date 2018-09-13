@@ -1,9 +1,3 @@
-un attribut est définit dans une classe
-a column is defined in a table
-il y a une classe
-there is a table
-il y a la classe x
-there is the table x
 la classe x possède la clé primaire a
 the table x has the primary key a
 la classe x possède attribut b
@@ -13,7 +7,7 @@ the table y has the primary key c
 la classe y possède attribut d
 the table y has column d
 la classe y possède association1N avec la classe x
-the table y has foreign-key that-is-defined-as-primary-key-in the table x
+the table y has foreign key that is defined as primary key in the table x
 la classe z possède la clé primaire a2
 the table z has the primary key b2
 la classe z possède attribut c2
@@ -23,13 +17,13 @@ the table x1 has the primary key a1
 la classe x1 possède attribut b1
 the table x1 has column b1
 la classe x1 possède association1N avec la classe z
-the table x1 has foreign-key that-is-defined-as-primary-key-in the table z
+the table x1 has foreign key that is defined as primary key in the table z
 la classe y1 possède la clé primaire c1
 the table y1 has the primary key c1
 la classe y1 possède attribut d1
 the table y1 has column d1
 la classe y1 possède association1N avec la classe x1
-the table y1 has foreign-key that-is-defined-as-primary-key-in the table x1
+the table y1 has foreign key that is defined as primary key in the table x1
 la classe x4 possède la clé primaire a6
 the table x4 has the primary key a6
 la classe x4 possède attribut b6
@@ -45,11 +39,11 @@ the table z4 has column c7
 il y a la classe x5
 there is the table x5
 la classe x5 possède association1N avec la classe x4
-the table x5 has foreign-key that-is-defined-as-primary-key-in the table x4
+the table x5 has foreign key that is defined as primary key in the table x4
 la classe x5 possède association1N avec la classe y4
-the table x5 has foreign-key that-is-defined-as-primary-key-in the table y4
+the table x5 has foreign key that is defined as primary key in the table y4
 la classe x5 possède association1N avec la classe z4
-the table x5 has foreign-key that-is-defined-as-primary-key-in the table z4
+the table x5 has foreign key that is defined as primary key in the table z4
 la classe z1 possède la clé primaire a3
 the table z1 has the primary key a3
 la classe z1 possède attribut b3
@@ -57,7 +51,7 @@ the table z1 has column b3
 la classe x2 possède attribut c3
 the table x2 has column c3
 la classe x2 hérite de la classe z1
-the table x2 contains-all-columns of the table z1
+the table x2 contains all columns of the table z1
 la classe y2 possède la clé primaire a4
 the table y2 has the primary key a4
 la classe y2 possède attribut b4
@@ -65,7 +59,7 @@ the table y2 has column b4
 la classe z2 possède attribut c4
 the table z2 has column c4
 la classe z2 hérite de la classe y2
-the table z2 contains-all-columns of the table y2
+the table z2 contains all columns of the table y2
 la classe x3 possède la clé primaire a5
 the table x3 has the primary key a5
 la classe x3 possède attribut b5
@@ -75,20 +69,22 @@ the table y3 has the primary key c5
 la classe y3 possède attribut d5
 the table y3 has column d5
 relationNM z3 possède attribut s
-another-table z3 has column s
+another table z3 has column s
 la classe x3 et la classe y3 possèdent relationNM z3
-the table x3 and the table y3 have another-table z3
+the table x3 and the table y3 have another table z3
+un attribut est définit dans une classe
+a column is defined in a table
+il y a une classe
+there is a table
 la classe x possède la clé a
 the table x has the key a
 la classe f possède la clé w
 the table f has the key w
 x hérite y
-x contains-all-columns y
+x contains all columns y
 x hérite de y
-x contains-all-columns of y
+x contains all columns of y
 relationNM possède attribut
-another-table has column
+another table has column
 deux classes possèdent relationNM
-two tables have another-table
-elles possèdent relationNM 
-they have another-table
+two tables have another table
